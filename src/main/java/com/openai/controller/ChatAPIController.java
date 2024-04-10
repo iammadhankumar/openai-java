@@ -22,7 +22,7 @@ import lombok.extern.slf4j.Slf4j;
  * @author madhankumar
  */
 @RestController
-@RequestMapping("/api/vi")
+@RequestMapping("/api/v1")
 @Slf4j
 public class ChatAPIController {
 
